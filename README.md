@@ -7,13 +7,13 @@
 	Implement functionalities for comparing sales across products, regions, and time periods.
 
 ##screenshots
-(images/er diagram.png);
-(images/pm1.jpg);
-(images/PM2.jpg);
-(images/PM3.jpg);
-(images/pt1.jpg);
-(images/pt2.jpg);
-(images/sm.jpg);
+(./images/er diagram.png);
+(./images/pm1.jpg);
+(./images/PM2.jpg);
+(./images/PM3.jpg);
+(./images/pt1.jpg);
+(./images/pt2.jpg);
+(./images/sm.jpg);
 
 
 	Product Manager:- https://app.powerbi.com/links/kxDIfu0BdV?ctid=7a91c6a1-80fd-4ef9-a673-ab1937ff5239&pbi_source=linkShare 
