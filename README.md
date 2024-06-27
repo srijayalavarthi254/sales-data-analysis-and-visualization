@@ -7,7 +7,7 @@
 	Implement functionalities for comparing sales across products, regions, and time periods.
 
 ##screenshots
-![screenshot1](./images/er diagram.png);
+
 ![screenshot2](./images/pm1.jpg);
 ![screenshot3](./images/PM2.jpg);
 ![screenshot4](./images/PM3.jpg);
